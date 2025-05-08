@@ -1,1 +1,7 @@
-
+{
+    "title": "GojoWTF",
+    "iconUrl": "https://gojo.wtf/android-chrome-512x512.png",
+    "dub": true,
+    "sub": true,
+    "language": "English"
+}
