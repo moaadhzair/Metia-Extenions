@@ -1,4 +1,5 @@
 {
+    "streamDataApi": "https://animepahe.netlify.app/api/streamData/",
     "searchApi": "https://animepahe.netlify.app/api/search-anime/",
     "episodeListApi": "https://animepahe.netlify.app/api/get-episode-list/",   
     "title": "AnimePahe",
