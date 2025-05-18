@@ -1,1 +1,11 @@
 
+{
+    "streamDataApi": "http://wit-anime.netlify.app/api/streamData?session=",
+    "searchApi": "http://wit-anime.netlify.app/api/search?keyword=",
+    "episodeListApi": "http://wit-anime.netlify.app/api/episodeList?session=",   
+    "title": "WitAnime",
+    "iconUrl": "https://cdn.zain3.com/static_src/sites/24.png",
+    "dub": false,
+    "sub": true,
+    "language": "Arabic"
+}
