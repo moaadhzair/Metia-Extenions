@@ -7,5 +7,7 @@
     "iconUrl": "https://cdn.zain3.com/static_src/sites/24.png",
     "dub": false,
     "sub": true,
-    "language": "Arabic"
+    "language": "Arabic",
+    "anilistPreferedTitle": "romaji",
+    
 }
