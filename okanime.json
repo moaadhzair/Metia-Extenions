@@ -1,0 +1,11 @@
+{
+    "streamDataApi": "http://okanime-extension-metia.vercel.app/api/streamData?id=",
+    "searchApi": "http://okanime-extension-metia.vercel.app/api/search?keyword=",
+    "episodeListApi": "http://okanime-extension-metia.vercel.app/api/episodeList?session=",   
+    "title": "OkAnime",
+    "iconUrl": "https://github.com/kodjodevf/mangayomi-extensions/blob/e4bdd7205ddb7e8a18907a4fc9ad5d89fc18d53c/dart/anime/src/ar/okanime/icon.png?raw=true",
+    "dub": false,
+    "sub": true,
+    "language": "Arabic",
+    "anilistPreferedTitle": "romaji"
+}
