@@ -1,0 +1,11 @@
+{
+    "streamDataApi": "http://okanime-extension-metia.vercel.app/api/streamData?id=",
+    "searchApi": "https://anime3rb-metia.netlify.app/api/search?keyword=",
+    "episodeListApi": "http://okanime-extension-metia.vercel.app/api/episodeList?session=",   
+    "title": "Anime3rb",
+    "iconUrl": "https://github.com/moaadhzair/Metia-Extensions/blob/main/icons/anime3rb.png?raw=true",
+    "dub": false,
+    "sub": true,
+    "language": "Arabic",
+    "anilistPreferedTitle": "romaji"
+}
