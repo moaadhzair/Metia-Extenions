@@ -1,5 +1,5 @@
 {
-    "streamDataApi": "http://okanime-extension-metia.vercel.app/api/streamData?id=",
+    "streamDataApi": "https://anime3rb-metia.netlify.app/api/stream-data?link=",
     "searchApi": "https://anime3rb-metia.netlify.app/api/search?keyword=",
     "episodeListApi": "https://anime3rb-metia.netlify.app/api/episode-list?session=",   
     "title": "Anime3rb",
